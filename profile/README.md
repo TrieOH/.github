@@ -20,3 +20,20 @@ Nós valorizamos a acessibilidade por dois lados:
 Já a velocidade é um dos nossos valores principais visto que permite por um lado que uma quantidade cada vez maior de usuários experiencie o que temos a oferecer sem ter sua experiencia comprometida e não gaste tempo desnecessário do seu dia esperando paginas e ações que não deveriam tomar seu tempo.
 
 E por fim modernidade que para nós significa sempre estar um passo à frente. É usar tecnologias atuais, padrões de design eficientes e práticas de desenvolvimento que garantem longevidade, segurança e evolução constante. Queremos que cada produto que criamos reflita o presente, mas já preparado para o futuro, sem ficar preso a soluções ultrapassadas ou burocráticas.
+
+## Produtos
+
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://github.com/TrieOH/.github/blob/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150">
+    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://github.com/TrieOH/.github/blob/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150">
+    </a>
+    <br> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://github.com/TrieOH/.github/blob/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150">
+    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <img src="https://github.com/TrieOH/.github/blob/main/assets/Univents.png" alt="Univents Logo" width="150" height="150">
+    </a>
+</div>
