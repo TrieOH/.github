@@ -22,18 +22,18 @@ Já a velocidade é um dos nossos valores principais visto que permite por um la
 E por fim modernidade que para nós significa sempre estar um passo à frente. É usar tecnologias atuais, padrões de design eficientes e práticas de desenvolvimento que garantem longevidade, segurança e evolução constante. Queremos que cada produto que criamos reflita o presente, mas já preparado para o futuro, sem ficar preso a soluções ultrapassadas ou burocráticas.
 
 ## Produtos
-
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://github.com/TrieOH/.github/blob/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
+        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150" style="border: none;">
     </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://github.com/TrieOH/.github/blob/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
+        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150" style="border: none;">
     </a>
-    <br> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://github.com/TrieOH/.github/blob/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150">
+    <br>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
+        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150" style="border: none;">
     </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="https://github.com/TrieOH/.github/blob/main/assets/Univents.png" alt="Univents Logo" width="150" height="150">
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
+        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/Univents.png" alt="Univents Logo" width="150" height="150" style="border: none;">
     </a>
 </div>
