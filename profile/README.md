@@ -35,17 +35,8 @@ Plataforma para gerenciamento completo de envio de e-mails, oferecendo fila otim
 Uma plataforma responsável por gerenciar eventos de todos os âmbitos, um dos seus diferenciais e a customização onde o organizador do evento pode organizar o evento e os dados do seu jeito, tornando sua experiência única e manipulável.
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150" style="border: none;">
-    </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150" style="border: none;">
-    </a>
-    <br>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150" style="border: none;">
-    </a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
-        <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/Univents.png" alt="Univents Logo" width="150" height="150" style="border: none;">
-    </a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150" style="border: none;"></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150" style="border: none;"></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150" style="border: none;"></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/Univents.png" alt="Univents Logo" width="150" height="150" style="border: none;"></a>
 </div>
