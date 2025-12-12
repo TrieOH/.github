@@ -22,6 +22,18 @@ Já a velocidade é um dos nossos valores principais visto que permite por um la
 E por fim modernidade que para nós significa sempre estar um passo à frente. É usar tecnologias atuais, padrões de design eficientes e práticas de desenvolvimento que garantem longevidade, segurança e evolução constante. Queremos que cada produto que criamos reflita o presente, mas já preparado para o futuro, sem ficar preso a soluções ultrapassadas ou burocráticas.
 
 ## Produtos
+
+### TrieAuth: 
+Plataforma para simplificar o bootstrapping de qualquer ideia, fornece sistema de autenticação completo e poderoso, com funcionalidades voltadas para customização do processo por um todo, com o intuito de simplificar e acelerar o desenvolvimento.
+
+### TrieMail: 
+Plataforma para gerenciamento completo de envio de e-mails, oferecendo fila otimizada, registros detalhados de cada operação e um fluxo totalmente customizável. Tudo pensado para garantir entregas consistentes, seguras, sem complicação e gargalo.
+
+### TriePayments: 
+
+### Univents:
+Uma plataforma responsável por gerenciar eventos de todos os âmbitos, um dos seus diferenciais e a customização onde o organizador do evento pode organizar o evento e os dados do seu jeito, tornando sua experiência única e manipulável.
+
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;">
         <img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieAuth.png" alt="TrieAuth Logo" width="150" height="150" style="border: none;">
