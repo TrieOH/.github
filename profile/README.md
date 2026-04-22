@@ -29,7 +29,8 @@ Plataforma para simplificar o bootstrapping de qualquer ideia, fornece sistema d
 ### TrieMail: 
 Plataforma para gerenciamento completo de envio de e-mails, oferecendo fila otimizada, registros detalhados de cada operação e um fluxo totalmente customizável. Tudo pensado para garantir entregas consistentes, seguras, sem complicação e gargalo.
 
-### TriePayments: 
+### Payssage: 
+Plataforma de orquestração de pagamentos que conecta múltiplos provedores e centraliza cobranças, splits e webhooks em um único sistema, de forma que seja possível criar e gerenciar workspaces para organizar fluxos financeiros de forma simples, flexível e escalável.
 
 ### Univents:
 Uma plataforma responsável por gerenciar eventos de todos os âmbitos, um dos seus diferenciais e a customização onde o organizador do evento pode organizar o evento e os dados do seu jeito, tornando sua experiência única e manipulável.
@@ -37,6 +38,6 @@ Uma plataforma responsável por gerenciar eventos de todos os âmbitos, um dos s
 <div align="center">
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/IdentityX.png" alt="IdentityX Logo" width="150" height="150" style="border: none;"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TrieMail.png" alt="TrieMail Logo" width="150" height="150" style="border: none;"></a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/TriePayments.png" alt="TriePayments Logo" width="150" height="150" style="border: none;"></a>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/Payssage.png" alt="Payssage Logo" width="150" height="150" style="border: none;"></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; outline: none;"><img src="https://raw.githubusercontent.com/TrieOH/.github/main/assets/Univents.png" alt="Univents Logo" width="150" height="150" style="border: none;"></a>
 </div>
